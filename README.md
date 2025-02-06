@@ -1,4 +1,4 @@
-# Arteriorly
+# Arteriorly 📈🩸
 
 Arteriorly is a fullstack application that allows users to log their blood pressure(s) with uploading a picture of their bp readings.
 
